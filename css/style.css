@@ -1,0 +1,18 @@
+.text0 {
+    border: 20px solid blue 
+}
+.div1 {
+    width: 1180px;
+    height: 350px;
+    background-color: lightblue;
+    /* margin-left: auto;
+    margin-right: auto; */
+    margin: 0 auto;
+}
+    .title2 {
+        text-align: center;
+    }
+    .lorem2 {
+        text-align: justify;
+        width: 300px;
+    }
